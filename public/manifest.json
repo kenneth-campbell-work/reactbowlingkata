@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Bowling Kata",
+  "name": "React Bowling Kata",
   "icons": [
     {
       "src": "favicon.ico",
